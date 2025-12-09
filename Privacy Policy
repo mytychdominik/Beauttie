@@ -1,0 +1,435 @@
+# Privacy Policy
+
+**Beauttie - Nutrition Tracking for Skin Health**
+
+Last Updated: December 2024
+
+---
+
+## 1. Overview
+
+Beauttie ("App") is developed by **Dominik Mytych**, ul. Redutowa 67, 00-001 Warszawa, Poland ("Developer," "we," "our," or "us").
+
+We are committed to protecting your privacy and transparency about how we collect, use, and share your personal information. This Privacy Policy explains our data practices for the Beauttie mobile application.
+
+**By using Beauttie, you consent to the collection and use of your information as described in this policy.**
+
+---
+
+## 2. Data We Collect
+
+We collect data necessary to provide nutrition tracking services. All data is linked to your user account and identity.
+
+### 2.1 Information You Provide (Collected at Onboarding)
+
+**Account & Profile Information:**
+- First name and last name
+- Email address
+- Age
+- Height (in cm or inches)
+- Weight (in kg or lbs)
+- Biological sex (for accurate calorie calculations)
+- Fitness goals (lose weight, maintain weight, gain muscle)
+- Activity level (sedentary, lightly active, moderately active, very active, extremely active)
+
+**Nutrition & Health Data:**
+- Meal logs and food items consumed
+- Portion sizes and quantities
+- Calorie intake
+- Macronutrient data (protein, carbohydrates, fats in grams)
+- Micronutrient tracking (vitamins and minerals)
+- Dietary preferences and restrictions
+- Meal photos (if you use AI meal analysis)
+- Meal descriptions (if you use AI meal analysis)
+
+### 2.2 Automatically Collected Information
+
+**Device & Technical Data:**
+- Device type and model (iPhone, iPad, Android device)
+- Operating system and version
+- App version and build number
+- Unique device identifiers (anonymous)
+- Device language and region settings
+
+**Usage Data:**
+- App launches and frequency of use
+- Features accessed (dashboard, meal logging, premium features)
+- Buttons clicked and screens viewed
+- Time spent in the app
+- Timestamps of activities
+- Search history within the app
+- Scrolling and interaction patterns
+
+**Performance & Diagnostics:**
+- App crashes and error logs
+- Performance metrics (launch time, responsiveness)
+- Hang rate and memory usage
+- Energy/battery consumption
+- Technical errors encountered
+
+**Location Data:**
+- Approximate location (only if location permissions are explicitly granted by user)
+- Note: The App does not require location permissions for primary functionality
+
+### 2.3 Subscription & Payment Data
+
+**Billing Information:**
+- Subscription purchase history
+- Transaction receipts and dates
+- Subscription status (active, cancelled, expired, trial period)
+- Payment method type (Apple ID, Google Play Account, Stripe)
+- Billing email and transaction ID
+
+**Important:** We do not collect or store full payment card details. Payment processing is handled securely by:
+- **Apple** (for iOS in-app purchases)
+- **Google Play** (for Android in-app purchases)
+- **Stripe** (for web purchases)
+
+Payment data flows directly from your device to the payment processor, not through Beauttie servers.
+
+---
+
+## 3. How We Use Your Data
+
+We use the information collected for the following purposes:
+
+### 3.1 Core App Functionality (Primary Use)
+- Calculate your personalized daily calorie target using the Mifflin-St Jeor equation
+- Calculate personalized macronutrient targets based on your goals and activity level
+- Store and display your meal logs and nutrition history
+- Track your daily calorie, macro, vitamin, and mineral intake
+- Generate personalized nutrition recommendations based on your profile
+- Provide AI-powered meal analysis from meal photos and descriptions
+- Display progress visualizations and circular macro tracking rings
+- Enable premium features (advanced vitamin/mineral tracking)
+- Authenticate your account and maintain account security
+
+### 3.2 Product Personalization
+- Customize nutrition recommendations based on your fitness goals
+- Adjust calorie and macro targets if you modify your profile
+- Recommend skin-healthy nutrients relevant to your tracking data
+- Personalize the dashboard based on your dietary preferences
+- Store your meal history for trend analysis
+
+### 3.3 Analytics & Product Improvement
+- Analyze which features are most used
+- Understand user behavior and engagement patterns
+- Identify bugs and technical issues
+- Measure app stability and performance
+- Plan new features and improvements
+- Optimize app speed and responsiveness
+- Monitor user acquisition and retention
+
+### 3.4 Communication
+- Send app update notifications
+- Notify you about subscription status changes
+- Respond to customer support requests
+- Send important security or account updates (via email)
+
+### 3.5 Legal & Security
+- Comply with applicable laws and regulations
+- Prevent fraud and unauthorized account access
+- Investigate and resolve technical issues
+- Protect against malicious or suspicious activity
+- Respond to legal requests from authorities
+
+---
+
+## 4. Third-Party Partners & Data Sharing
+
+We share your data with select third-party partners to deliver app functionality. **We never sell your data to advertisers or data brokers.**
+
+### 4.1 RevenueCat (Subscription Management)
+**What data we share:**
+- User ID and account email
+- Subscription status and history
+- Purchase receipts and transactions
+- Payment method information
+
+**Purpose:** Manage in-app subscriptions, billing, and premium features
+
+**Privacy:** https://www.revenuecat.com/privacy
+
+**Data Processing:** RevenueCat processes this data in the USA
+
+### 4.2 OpenAI (AI Meal Analysis)
+**What data we share:**
+- Meal photos (when you choose to use AI analysis)
+- Meal descriptions (when you choose to use AI analysis)
+- User ID for linking meal data
+
+**Purpose:** Analyze meal images and text to generate nutrition information
+
+**Privacy:** https://openai.com/privacy
+
+**Control:** This feature is optional. You can decline to use AI analysis and log meals manually
+
+**Data Processing:** OpenAI processes images and text data according to their API terms. Refer to their privacy policy for details.
+
+### 4.3 Apple, Google Play, Stripe (Payment Processing)
+**What data we share:**
+- Payment information (credit card, bank account)
+- Email and billing address
+- Transaction history
+
+**Purpose:** Process in-app purchases and subscriptions securely
+
+**Privacy Policies:**
+- Apple: https://www.apple.com/privacy
+- Google: https://policies.google.com/privacy
+- Stripe: https://stripe.com/privacy
+
+**Important:** We never have direct access to your full payment card details. Payment processing is encrypted and handled entirely by these third parties.
+
+### 4.4 Analytics & Crash Reporting
+**What data we share:**
+- Anonymous usage data and crash logs
+- Performance metrics
+- Error reports
+
+**Purpose:** Improve app stability, performance, and user experience
+
+**Partners:** May include Expo/React Native built-in analytics and services
+
+---
+
+## 5. Data Linkage to User Identity
+
+**All data collected from Beauttie is linked to your user account and identity.**
+
+This linkage is necessary because:
+- We track **YOUR** nutrition history
+- Your personalized calorie and macro targets are based on **YOUR** profile
+- Your premium features are specific to **YOUR** account
+- Your meal logs must be associated with **YOUR** account
+
+We do **NOT** de-identify or anonymize this data before collection or use.
+
+**How data is linked:**
+- Email address links to your account
+- User ID identifies your account across our systems
+- All nutrition data is stored under your account
+- Subscription and payment data is linked to your account email
+
+---
+
+## 6. Data Security
+
+We implement industry-standard security measures to protect your information:
+
+**Encryption:**
+- All data transmitted between your device and our servers uses HTTPS/TLS encryption
+- Sensitive data is encrypted at rest
+- Payment data is processed with PCI DSS compliance
+
+**Access Controls:**
+- Only authorized team members with legitimate business needs access user data
+- Access is restricted and monitored
+
+**Security Practices:**
+- Regular security updates and patches
+- Vulnerability assessments
+- Secure password storage using industry-standard hashing
+
+**Third-Party Security:**
+- Our partners (RevenueCat, OpenAI, Apple, Google, Stripe) maintain their own security standards
+- We require contractual data protection commitments from all partners
+
+**Limitations:** While we implement robust security measures, no method is 100% secure. We cannot guarantee absolute security against all threats.
+
+---
+
+## 7. Data Retention
+
+**How long we keep your data:**
+
+| Data Type | Retention Period |
+|-----------|-----------------|
+| Account Profile Data | Retained while account is active; deleted 90 days after account deletion |
+| Nutrition Logs | Retained while account is active; deleted upon account deletion |
+| Payment & Transaction Records | 7 years (required by tax and financial regulations) |
+| Crash Logs & Diagnostics | 30 days then deleted |
+| Approximate Location Data | 30 days then deleted |
+| Performance Metrics | 90 days then aggregated and anonymized |
+
+**Account Deletion:** You can request permanent deletion of your account data by contacting us. We will delete personal data within 30 days, except where legally required to retain it (e.g., payment records).
+
+---
+
+## 8. Your Privacy Rights
+
+Depending on your location, you have rights regarding your personal data:
+
+### 8.1 All Users
+- **Access:** Request a copy of your personal data
+- **Correction:** Update or correct inaccurate information
+- **Deletion:** Request deletion of your account and data
+- **Opt-Out:** Disable optional data collection (e.g., location)
+- **Portability:** Request your data in a portable format
+
+### 8.2 European Union (GDPR)
+- **Right to Know** what data we collect and how we use it
+- **Right to Access** all personal data we hold about you
+- **Right to Rectification** of inaccurate data
+- **Right to Erasure** ("Right to be Forgotten")
+- **Right to Restrict** processing
+- **Right to Data Portability**
+- **Right to Object** to processing
+- **Right to Lodge a Complaint** with your data protection authority
+
+### 8.3 California (CCPA / CPRA)
+- **Right to Know:** What personal information is collected and how it's used
+- **Right to Delete:** Request deletion of personal information
+- **Right to Correct:** Request correction of inaccurate information
+- **Right to Opt-Out:** Opt-out of data sales (we do not sell data)
+- **Right to Non-Discrimination:** No discrimination for exercising CCPA rights
+- **Right to Limit Use:** Limit use of sensitive personal information
+
+**How to Exercise Your Rights:**
+Contact us with your request:
+
+**Dominik Mytych**  
+ul. Redutowa 67  
+00-001 Warszawa, Poland  
+Email: [your-email@example.com]
+
+**Response Time:** We will respond to verified requests within 30 days (or as required by applicable law).
+
+---
+
+## 9. Tracking & Advertising
+
+**We do NOT use your data for tracking or advertising purposes.**
+
+**Specifically, we DO NOT:**
+- ❌ Use email addresses for targeted advertising
+- ❌ Share data with advertising networks
+- ❌ Link your data with third-party data for advertising purposes
+- ❌ Use advertising IDs for cross-app tracking
+- ❌ Share data with data brokers
+- ❌ Retarget you across other apps
+- ❌ Collect data for advertising measurement
+
+**Optional AI Feature:** When you use the optional AI meal analysis feature, your meal photo is sent to OpenAI. This is necessary to provide the feature, but it does not enable tracking or advertising.
+
+---
+
+## 10. Children's Privacy
+
+**Beauttie is not designed for or intended for use by children under 18 without parental consent.**
+
+- We do not knowingly collect personal information from children under 18
+- If we discover we have collected data from a child, we will delete it promptly
+- For EU users under 16 (or the local age of digital consent), parental consent is required
+- For California users under 13, we do not knowingly collect data
+
+**If you believe we have collected data from a child, please contact us immediately.**
+
+---
+
+## 11. International Data Transfers
+
+Your personal data may be transferred to, stored in, and processed in countries other than your country of residence, including the United States.
+
+These countries may have data protection laws that differ from your home country. By using Beauttie, you consent to:
+- Transfer of your data internationally
+- Processing in countries that may have different privacy laws
+- Storage on servers located outside your country
+
+**GDPR Users:** We implement appropriate safeguards for international transfers, including:
+- Standard contractual clauses
+- Your explicit consent
+- Adequacy decisions where applicable
+
+---
+
+## 12. Data Protection Officer
+
+If you are located in the EU or UK, you may have the right to contact a Data Protection Officer:
+
+**Dominik Mytych** (Data Controller)  
+ul. Redutowa 67  
+00-001 Warszawa, Poland  
+Email: mytychdominik@gmail.com
+
+---
+
+## 13. Changes to This Privacy Policy
+
+We may update this Privacy Policy at any time to reflect changes in our practices, technology, legal requirements, or other factors.
+
+**What happens when we make changes:**
+- We will update the "Last Updated" date at the top of this policy
+- For material changes, we will notify you via email or in-app notification
+- Your continued use of the app after changes constitute acceptance of the updated policy
+
+**We recommend reviewing this policy periodically** to stay informed about how we protect your information.
+
+---
+
+## 14. Contact Us & Data Requests
+
+**For privacy questions, data requests, or concerns:**
+
+**Dominik Mytych**  
+ul. Redutowa 67  
+00-001 Warszawa, Poland  
+
+**Email:** mytychdominik@gmail.com 
+**Response Time:** We aim to respond within 30 days
+
+**What to include in your request:**
+- Your name and email
+- Description of your request (access, deletion, correction, etc.)
+- Account email or user ID if applicable
+- Any supporting information
+
+---
+
+## 15. Additional Information
+
+### Summary of Data Collection
+
+| Data Type | Collected | Linked to Identity | Used for Tracking |
+|-----------|-----------|-------------------|------------------|
+| Email Address | ✓ Yes | ✓ Yes | ✗ No |
+| Health & Fitness | ✓ Yes | ✓ Yes | ✗ No |
+| Meal Photos | ✓ Yes (optional) | ✓ Yes | ✗ No |
+| User ID | ✓ Yes | ✓ Yes | ✗ No |
+| Product Interaction | ✓ Yes | ✓ Yes | ✗ No |
+| Crash Data | ✓ Yes | ✗ No | ✗ No |
+| Performance Data | ✓ Yes | ✗ No | ✗ No |
+
+### Third-Party Links
+
+We are not responsible for third-party privacy policies. When you click links to third-party sites (RevenueCat, OpenAI, Apple, etc.), their privacy policies apply:
+
+- RevenueCat: https://www.revenuecat.com/privacy
+- OpenAI: https://openai.com/privacy
+- Apple: https://www.apple.com/privacy
+- Google: https://policies.google.com/privacy
+- Stripe: https://stripe.com/privacy
+
+---
+
+## 16. Legal Compliance
+
+This Privacy Policy complies with:
+- General Data Protection Regulation (GDPR) - EU/EEA
+- California Consumer Privacy Act (CCPA)
+- California Privacy Rights Act (CPRA)
+- Apple App Store Privacy Requirements
+- Google Play Privacy Policy Requirements
+- General privacy best practices
+
+---
+
+**Effective Date:** December 2024  
+**Last Modified:** December 2024  
+**Version:** 2.0  
+
+**For the most current version, visit:** [your-privacy-policy-url.com]
+
+---
+
+*This Privacy Policy is provided as-is. For any disputes regarding data privacy, the laws of Poland shall apply.*
